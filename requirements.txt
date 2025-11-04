@@ -1,12 +1,9 @@
 opencv-python
-face_recognition
 numpy
 pandas
 streamlit
 tk
 Pillow
 sqlalchemy
-dlib
-flask        # optional
-twilio       # optional (for SMS)
+face-recognition @ git+https://github.com/ageitgey/face_recognition.git
 
