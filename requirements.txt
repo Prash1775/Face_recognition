@@ -6,6 +6,7 @@ streamlit
 tk
 Pillow
 sqlalchemy
+dlib
 flask        # optional
 twilio       # optional (for SMS)
 
