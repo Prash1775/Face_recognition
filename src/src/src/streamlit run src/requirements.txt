@@ -1,0 +1,11 @@
+opencv-python
+face_recognition
+numpy
+pandas
+streamlit
+tk
+Pillow
+sqlalchemy
+flask        # optional
+twilio       # optional (for SMS)
+email-validator  # optional (for email validation)

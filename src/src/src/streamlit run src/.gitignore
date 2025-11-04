@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+encodings/*.pickle
+*.pyc
+.DS_Store
+*.sqlite3
